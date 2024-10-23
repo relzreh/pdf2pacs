@@ -1,0 +1,15 @@
+{
+    "Standard Studienbeschreibung": "xxx",
+    "Standard Serienbeschreibung": "xxx",
+    "SCP AE": "xxx",
+    "SCP Port": 409,
+    "C-FIND calling AE": "xxx",
+    "C-FIND called AE": "xxx",
+    "C-FIND called IP": "10.0.0.1",
+    "C-FIND called Port": 409,
+    "C-STORE calling AE": "xxx",
+    "C-STORE called AE": "xxx",
+    "C-STORE called IP": "10.0.0.1",
+    "C-STORE called Port": 409,
+    "Verbindungsabbruch": 5
+}
